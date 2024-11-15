@@ -41,6 +41,7 @@ I enjoy:
 | **[Web Calculator](https://tarnala-sribatsa-patro.github.io/web-calculator/)** | A basic web calculator built with JavaScript, HTML, and CSS that supports basic arithmetic operations. | [View Project](https://tarnala-sribatsa-patro.github.io/web-calculator/) |
 | **[DSA in C](https://github.com/TARNALA-SRIBATSA-PATRO/dsa-in-c)** | A repository featuring implementations of data structures and algorithms in C. | [View Repository](https://github.com/TARNALA-SRIBATSA-PATRO/dsa-in-c) |
 | **[Piano](https://tarnala-sribatsa-patro.github.io/piano/)** | A virtual piano application that allows you to play music using your keyboard or mouse. | [Play Piano](https://tarnala-sribatsa-patro.github.io/piano/) |
+| **[Library Management System](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System)** | A Java-based Library Management System for automating book and student management with features like book addition, search, borrowing, and returning. | [View Project](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System) |
 
 ---
 
