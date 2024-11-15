@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I’m currently a second-year B.Tech student at Si
 - **Current Status:** Second-year B.Tech student
 - **University:** Silicon University, Bhubaneswar
 - **Email:** [tsribatsapatro@gmail.com](mailto:tsribatsapatro@gmail.com)
-- **WhatsApp:** [Message me](https://wa.me/message/HYTS2ERLW4Y2I1)
-
 ---
 
 ## Skills
