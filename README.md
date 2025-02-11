@@ -40,6 +40,7 @@ I enjoy:
 | **[DSA in C](https://github.com/TARNALA-SRIBATSA-PATRO/dsa-in-c)** | A repository featuring implementations of data structures and algorithms in C. | [View Repository](https://github.com/TARNALA-SRIBATSA-PATRO/dsa-in-c) |
 | **[Piano](https://tarnala-sribatsa-patro.github.io/piano/)** | A virtual piano application that allows you to play music using your keyboard or mouse. | [Play Piano](https://tarnala-sribatsa-patro.github.io/piano/) |
 | **[Library Management System](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System)** | A Java-based Library Management System for automating book and student management with features like book addition, search, borrowing, and returning. | [View Project](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System) |
+| **[AWT Calendar App](https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App)** | A Java-based Calendar Application using AWT, providing an interactive UI for viewing dates and navigating through months and years. | [View Project](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System](https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App/blob/main/README.md)) |
 
 ---
 
