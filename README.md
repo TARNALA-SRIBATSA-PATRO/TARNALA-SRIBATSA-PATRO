@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I’m currently a second-year B.Tech student at Si
 
 ## Skills
 
-- **Programming Languages:** C, C++, Python (Basics), HTML, CSS
-- **Currently Learning:** JavaScript, Core Java (J2SE)
+- **Programming Languages:** C, J2SE, HTML, CSS
+- **Currently Learning:** JavaScript
 
 ---
 
