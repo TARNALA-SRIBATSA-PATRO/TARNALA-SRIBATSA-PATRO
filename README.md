@@ -1,65 +1,96 @@
-# TARNALA SRIBATSA PATRO
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Tarnala+Sribatsa+Patro;3rd+Year+CSE+Student;Spring+Boot+Backend+Developer;Always+Learning+Something+New!&center=true&width=500&height=50">
+</p>
 
-Welcome to my GitHub profile! I’m currently a second-year B.Tech student at Silicon University, Bhubaneswar. I’m passionate about learning and exploring new technologies, programming languages, and solving interesting problems.
+# 👋 Hello! I'm **TARNALA SRIBATSA PATRO**
 
----
+[![](https://komarev.com/ghpvc/?username=TARNALA-SRIBATSA-PATRO\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/TARNALA-SRIBATSA-PATRO)
+[![GitHub followers](https://img.shields.io/github/followers/TARNALA-SRIBATSA-PATRO?label=Follow\&style=social)](https://github.com/TARNALA-SRIBATSA-PATRO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sribatsa.vercel.app-0e75b6?style=flat\&logo=vercel\&logoColor=white)](https://sribatsa.vercel.app)
 
-## About Me
-
-- **Current Status:** Second-year B.Tech student
-- **University:** Silicon University, Bhubaneswar
-- **Email:** [tsribatsapatro@gmail.com](mailto:tsribatsapatro@gmail.com)
----
-
-## Skills
-
-- **Programming Languages:** C, J2SE, HTML, CSS
-- **Currently Learning:** JavaScript
+🎓 I'm a **third-year B.Tech CSE student** at *Silicon University, Bhubaneswar*
+💼 Working as an **Intern at Rumango Software Solutions Pvt. Ltd.**
+💡 Passionate about **solving real-world problems**, building projects, and exploring backend technologies
+🌱 Currently learning **Advanced Java**, **Spring Boot**, and diving deeper into **RESTful APIs**
 
 ---
 
-## Interests
+## 📬 Contact Me
 
-I enjoy:
-- Playing the piano
-- Watching movies
-- Listening to music
-- Solving Rubik's cubes
-- Learning new technologies and programming languages
+* 📧 Email: [tsribatsapatro@gmail.com](mailto:tsribatsapatro@gmail.com)
+* 🌐 Portfolio: [sribatsa.vercel.app](https://sribatsa.vercel.app)
+* 🔗 LinkedIn: [T. SRIBATSA PATRO](https://www.linkedin.com/in/t-sribatsa-patro)
+* 🐙 GitHub: [TARNALA-SRIBATSA-PATRO](https://github.com/TARNALA-SRIBATSA-PATRO)
 
 ---
 
-## Projects
+## 🧑‍💻 Tech Stack
 
-### Featured Projects
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| **[Ahaan Zone](https://tarnala-sribatsa-patro.github.io/Ahaan_Zone/)** | A toy store homepage built with HTML, CSS, and JavaScript. | [View Project](https://tarnala-sribatsa-patro.github.io/Ahaan_Zone/) |
-| **[Amazon Clone](https://tarnala-sribatsa-patro.github.io/Amazon_Clone/)** | A beginner-level clone of the Amazon homepage using HTML and CSS. | [View Project](https://tarnala-sribatsa-patro.github.io/Amazon_Clone/) |
-| **[Web Calculator](https://tarnala-sribatsa-patro.github.io/web-calculator/)** | A basic web calculator built with JavaScript, HTML, and CSS that supports basic arithmetic operations. | [View Project](https://tarnala-sribatsa-patro.github.io/web-calculator/) |
-| **[DSA in C](https://github.com/TARNALA-SRIBATSA-PATRO/dsa-in-c)** | A repository featuring implementations of data structures and algorithms in C. | [View Repository](https://github.com/TARNALA-SRIBATSA-PATRO/dsa-in-c) |
-| **[Piano](https://tarnala-sribatsa-patro.github.io/piano/)** | A virtual piano application that allows you to play music using your keyboard or mouse. | [Play Piano](https://tarnala-sribatsa-patro.github.io/piano/) |
-| **[Library Management System](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System)** | A Java-based Library Management System for automating book and student management with features like book addition, search, borrowing, and returning. | [View Project](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System) |
-| **[AWT Calendar App](https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App)** | A Java-based Calendar Application using AWT, providing an interactive UI for viewing dates and navigating through months and years. | [View Readme](https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App/blob/main/README.md) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,spring,html,css,js,git,github,vscode,postman,eclipse,intellij" />
+</p>
 
 ---
 
-## Learning Goals
+## 🌟 Featured Projects
 
-I’m focused on:
-- Enhancing my skills in JavaScript and Core Java
-- Building more complex projects and contributing to open-source
-- Exploring new areas of technology and programming
-
----
-
-## Connect with Me
-
-| Platform | Profile |
-|----------|---------|
-| **LinkedIn** | [T. SRIBATSA PATRO](https://www.linkedin.com/in/t-sribatsa-patro) |
-| **GitHub** | [TARNALA-SRIBATSA-PATRO](https://github.com/TARNALA-SRIBATSA-PATRO) |
+| Project                                                                                             | Description                             | Live Demo                                                                   |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------- |
+| 🎠 [Ahaan Zone](https://tarnala-sribatsa-patro.github.io/Ahaan_Zone/)                               | Toy store homepage using HTML, CSS & JS | [Live](https://tarnala-sribatsa-patro.github.io/Ahaan_Zone/)                |
+| 🛒 [Amazon Clone](https://tarnala-sribatsa-patro.github.io/Amazon_Clone/)                           | Amazon homepage clone                   | [Live](https://tarnala-sribatsa-patro.github.io/Amazon_Clone/)              |
+| 🧮 [Web Calculator](https://tarnala-sribatsa-patro.github.io/web-calculator/)                       | Simple JavaScript calculator            | [Live](https://tarnala-sribatsa-patro.github.io/web-calculator/)            |
+| 📚 [Library Management System](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System) | Java-based library automation           | [Repo](https://github.com/TARNALA-SRIBATSA-PATRO/Library-Management-System) |
+| 🎹 [Virtual Piano](https://tarnala-sribatsa-patro.github.io/piano/)                                 | Interactive piano using JS              | [Play](https://tarnala-sribatsa-patro.github.io/piano/)                     |
+| 🧠 [DSA in C](https://github.com/TARNALA-SRIBATSA-PATRO/dsa-in-c)                                   | DSA programs implemented in C           | [Repo](https://github.com/TARNALA-SRIBATSA-PATRO/dsa-in-c)                  |
+| 🗓️ [AWT Calendar App](https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App)                  | Calendar app using Java AWT             | [Repo](https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App)          |
+| 📖 [Poetry Showcase Website](https://sabita.vercel.app/)                                            | Live poetry showcase site               | [Visit](https://sabita.vercel.app/) *(Private Repo — Contact me)*           |
 
 ---
 
-Thank you for visiting my profile. Feel free to reach out or connect if you have any questions or interesting opportunities!
+## 📊 GitHub Visuals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TARNALA-SRIBATSA-PATRO&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARNALA-SRIBATSA-PATRO&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TARNALA-SRIBATSA-PATRO&theme=dark&hide_border=true" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TARNALA-SRIBATSA-PATRO&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TARNALA-SRIBATSA-PATRO&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TARNALA-SRIBATSA-PATRO&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TARNALA-SRIBATSA-PATRO&theme=github_dark&utcOffset=5" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TARNALA-SRIBATSA-PATRO&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/TARNALA-SRIBATSA-PATRO/TARNALA-SRIBATSA-PATRO/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/5BCDEC/TARNALA-SRIBATSA-PATRO" alt="Sribatsa's GitHub chart" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TARNALA-SRIBATSA-PATRO.TARNALA-SRIBATSA-PATRO" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TARNALA-SRIBATSA-PATRO\&theme=darkhub\&no-frame=true\&column=7\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🎯 Learning Goals
+
+* Build scalable backends with **Spring Boot**
+* Develop & deploy **RESTful APIs**
+* Sharpen **DSA and problem-solving** skills
+* Contribute more to **open source** and freelance projects
+
+---
+
+## 🎵 Hobbies & Fun Facts
+
+* 🎹 Piano playing while debugging
+* 🎬 Movie lover and music enthusiast
+* 🧊 Rubik’s Cube solver
+* 💡 Tech explorer & builder
+
+---
+
+> 💬 “Talk is cheap. Show me the code.” – *Linus Torvalds*
+
+> “Code is like poetry — it has rhythm, emotion, and structure. I aim to write code that not only works but inspires.”
+
+Thanks for visiting my profile! 🚀 Let's connect and collaborate! 😊
