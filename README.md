@@ -58,8 +58,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TARNALA-SRIBATSA-PATRO&theme=github_dark" height="180em"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TARNALA-SRIBATSA-PATRO&theme=github_dark&utcOffset=5" height="180em"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TARNALA-SRIBATSA-PATRO&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
-  <img src="https://raw.githubusercontent.com/TARNALA-SRIBATSA-PATRO/TARNALA-SRIBATSA-PATRO/output/github-contribution-grid-snake.svg" />
-  <img src="https://ghchart.rshah.org/5BCDEC/TARNALA-SRIBATSA-PATRO" alt="Sribatsa's GitHub chart" />
+  <div style="background-color: #0d1117; padding: 10px; border-radius: 10px; display: inline-block;">
+    <img src="https://ghchart.rshah.org/green/TARNALA-SRIBATSA-PATRO" alt="Sribatsa's GitHub chart" />
+  </div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TARNALA-SRIBATSA-PATRO.TARNALA-SRIBATSA-PATRO" />
 </p>
 
