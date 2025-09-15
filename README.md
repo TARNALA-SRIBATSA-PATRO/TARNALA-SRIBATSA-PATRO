@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sribatsa.vercel.app-0e75b6?style=flat\&logo=vercel\&logoColor=white)](https://sribatsa.vercel.app)
 
 🎓 I'm a **third-year B.Tech CSE student** at *Silicon University, Bhubaneswar*
-💼 Working as an **Intern at Rumango Software Solutions Pvt. Ltd.**
+💼 Worked as an **Intern at Rumango Software Solutions Pvt. Ltd.**
 💡 Passionate about **solving real-world problems**, building projects, and exploring backend technologies
 🌱 Currently learning **Advanced Java**, **Spring Boot**, and diving deeper into **RESTful APIs**
 
