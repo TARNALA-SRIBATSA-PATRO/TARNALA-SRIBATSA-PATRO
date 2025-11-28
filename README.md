@@ -36,6 +36,7 @@
 
 | Project                                                                                             | Description                             | Live Demo                                                                   |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------- |
+| 🧑🏻‍🦱 [Elect The Best (A CR Election Platform]([https://tarnala-sribatsa-patro.github.io/Ahaan_Zone/](https://github.com/ELECT-THE-BEST/CR_ELECTION/tree/main))                               | CR Election Platform using HTML, CSS, JS, JSP, MySQL, Python | [README](https://github.com/ELECT-THE-BEST/CR_ELECTION/blob/main/README.md)                |
 | 🎠 [Ahaan Zone](https://tarnala-sribatsa-patro.github.io/Ahaan_Zone/)                               | Toy store homepage using HTML, CSS & JS | [Live](https://tarnala-sribatsa-patro.github.io/Ahaan_Zone/)                |
 | 🛒 [Amazon Clone](https://tarnala-sribatsa-patro.github.io/Amazon_Clone/)                           | Amazon homepage clone                   | [Live](https://tarnala-sribatsa-patro.github.io/Amazon_Clone/)              |
 | 🧮 [Web Calculator](https://tarnala-sribatsa-patro.github.io/web-calculator/)                       | Simple JavaScript calculator            | [Live](https://tarnala-sribatsa-patro.github.io/web-calculator/)            |
